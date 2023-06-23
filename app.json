@@ -1,7 +1,7 @@
 {
     "name": "CyberBytesCare Userbot",
     "description": "A First Telegram Userbot Project With Multi Client Based On PyroGram!",
-    "logo": "https://graph.org/file/154a299dcb4ac88d2c15b.jpg",
+    "logo": "https://graph.org/file/1c8947cce08da75456fe8.jpg",
     "repository": "https://github.com/CyberBytesCare/CyberBytescareUserbot",
     "env": {
         "STRING_SESSION1": {
